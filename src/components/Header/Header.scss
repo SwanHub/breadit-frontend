@@ -1,0 +1,32 @@
+$fontc-primary: #333;
+$fontc-highlight: rgb(241, 146, 44);
+$fontf-header: 'Calistoga', cursive;
+$bgcolor-highlight: rgba(241, 146, 44, 0.3);
+
+body {
+  min-width: 500px;
+  margin:0;
+  color: $fontc-primary;
+}
+
+header {
+  width: 100%;
+  text-align: center;
+  h1 {
+    color: $fontc-highlight;
+    font-family: $fontf-header;
+    margin-top: 0;
+    padding-top: 20px;
+  }
+  code {
+    background-color: rgba(51,51,51,0.1);
+    border: 1px solid rgba(51,51,51,0.2);
+    color:$fontc-primary;
+    padding:4px;
+    border-radius: 5px;
+    text-decoration: underline;
+    text-decoration-color:rgba(5, 5, 5, 0.2);
+  }
+}
+
+

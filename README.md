@@ -7,4 +7,5 @@ Breadit is a website I'm creating to practice Node, React and Typescript. Breadi
 - `Node.js`
 - `React.js`
 - `Typescript`
+- `Sass`
 

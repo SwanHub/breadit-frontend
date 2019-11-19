@@ -1,0 +1,8 @@
+$bread-1: 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-ami-drupal.heartyhosting.com%2Fsites%2Fmuscleandfitness.com%2Ffiles%2FBread.jpg&f=1&nofb=1';
+
+.opening-face {
+    background-image: url($bread-1);
+    background-repeat: no-repeat;
+    background-position: right top;
+    height: 100vh;
+}
